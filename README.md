@@ -4,7 +4,9 @@
   </a>
 </p>
 
-🃏____________________________Click_______________________________🃏
+🃏______________________________________Click________________________________________🃏
+
+
 This repo collects a random amount of v2ray configs by itself every 30 minutes 
 
 🚫 NONE OF THE CONFIGS ARE MINE 🚫
