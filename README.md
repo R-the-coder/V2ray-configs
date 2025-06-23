@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/Joker_v2ray_configs" target="_blank">
-    <img src="https://github.com/Space-00/String/blob/main/I.png" alt="Description" width="300"/>
+    <img src="https://github.com/Space-00/String/blob/main/I.png" alt="Description" width="200"/>
   </a>
 </p>
 
