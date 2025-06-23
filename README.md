@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong><span style="font-size:20px;">☝🏻Click☝🏻</span></strong>
+  <strong><span style="font-size:50px;">☝🏻Click☝🏻</span></strong>
 </p>
 
 This repo collects a random amount of v2ray configs by itself every 30 minutes 
