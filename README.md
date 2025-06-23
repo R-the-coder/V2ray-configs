@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  ☝🏻Click☝🏻
+  <strong><span style="font-size:20px;">☝🏻Click☝🏻</span></strong>
 </p>
-
 
 This repo collects a random amount of v2ray configs by itself every 30 minutes 
 
