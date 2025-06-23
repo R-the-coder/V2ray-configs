@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="[https://example.com/your-image.jpg](https://avatars.githubusercontent.com/u/215345459?v=4)" alt="Description" width="300"/>
-</p>
-
-
 This repo collects a random amount of v2ray configs by itself every 30 minutes 
 
 🚫 NONE OF THE CONFIGS ARE MINE 🚫
