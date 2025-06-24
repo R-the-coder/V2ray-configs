@@ -8,6 +8,8 @@
   <strong><span style="font-size:50px;">☝🏻Click☝🏻</span></strong>
 </p>
 
+❌There is a tiny miny problem so there won't be any config for the next 5 hours, don't worry though cause I'll get it running, it ain't any big deal❌
+
 This repo collects a random amount of v2ray configs by itself every 30 minutes 
 
 🚫 NONE OF THE CONFIGS ARE MINE 🚫
