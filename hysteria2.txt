@@ -1,2 +1,2 @@
-hysteria2://dongtaiwang.com@46.17.41.189:50717?security=tls&insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Wed Jun 25 05:44:27 UTC 2025
+hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?security=tls&obfs=salamander&obfs-password=bleepbloop&insecure=1#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Wed Jun 25 06:55:51 UTC 2025
