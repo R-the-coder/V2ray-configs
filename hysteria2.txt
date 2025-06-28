@@ -1,2 +1,2 @@
-hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.sinavm.ir:80?insecure=0&sni=sinavm.sinavm.ir&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sat Jun 28 18:49:46 UTC 2025
+hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?security=tls&obfs=salamander&obfs-password=bipbip&insecure=1#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Sat Jun 28 19:25:07 UTC 2025
