@@ -1,2 +1,2 @@
-hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?security=tls&insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sat Jun 28 11:27:13 UTC 2025
+hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Sat Jun 28 13:46:28 UTC 2025
