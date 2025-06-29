@@ -1,2 +1,2 @@
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sun Jun 29 17:35:55 UTC 2025
+# Last updated: Sun Jun 29 18:48:25 UTC 2025
