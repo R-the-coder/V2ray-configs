@@ -1,2 +1,2 @@
-hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?security=tls&obfs=salamander&obfs-password=bipbip&insecure=1#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sun Jun 29 08:44:05 UTC 2025
+hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Sun Jun 29 09:33:22 UTC 2025
