@@ -1,2 +1,2 @@
-hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Mon Jun 30 17:39:48 UTC 2025
+hysteria2://6d579896-40eb-400c-89b4-4eef10f2e7a6@45.147.201.231:30073?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Mon Jun 30 18:54:02 UTC 2025
