@@ -1,4 +1,2 @@
-hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?security=tls&obfs=salamander&obfs-password=bluhbluh&insecure=1#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:11726?security=tls&obfs=salamander&obfs-password=qilebcibeMO3IVBnfqal3i&insecure=1#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:20971?security=tls&obfs=salamander&obfs-password=31khbqfou1njilgv2qoih&insecure=1#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Tue Jul  1 23:34:27 UTC 2025
+hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:501?security=tls&obfs=salamander&obfs-password=Djxsjduwue&insecure=1#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Wed Jul  2 03:41:40 UTC 2025
