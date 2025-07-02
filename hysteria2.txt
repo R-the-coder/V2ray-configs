@@ -1,2 +1,2 @@
-hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Wed Jul  2 22:41:52 UTC 2025
+hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@1ec1d0fd-sw3ts0-swdpud-duku.hy2.gotochinatown.net:8443?sni=1ec1d0fd-sw3ts0-swdpud-duku.hy2.gotochinatown.net#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Wed Jul  2 23:37:54 UTC 2025
