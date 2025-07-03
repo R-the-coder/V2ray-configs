@@ -1,2 +1,2 @@
-hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=%40azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Thu Jul  3 19:27:42 UTC 2025
+hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Thu Jul  3 20:39:52 UTC 2025
