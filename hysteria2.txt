@@ -1,2 +1,2 @@
-hysteria2://607d365e-7ea1-11ee-95e9-f23c913c8d2b@69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net:8443?sni=69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Thu Jul  3 04:58:34 UTC 2025
+hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?security=tls&insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Thu Jul  3 05:49:46 UTC 2025
