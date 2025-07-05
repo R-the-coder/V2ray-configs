@@ -16,7 +16,6 @@ ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryp
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.206.230:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
 ss://23d240b9-c5ec-43d1-ec3d-5066556537f4@104.21.52.16:8080?type=ws&host=0617.heweiyi.dpdns.org&path=%2Fsearch#🃏Telegram:Joker_v2ray_configs🃏
-ss://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.2.228:80?type=ws&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.networkpro.net&amp;path=%2F%3Fed%3D2048#🃏Telegram:Joker_v2ray_configs🃏
 ss://2642c002-1f66-46fd-8e4c-a25bba373c98@162.159.129.11:2096?security=tls&sni=cantarella.yaechan.ip-ddns.com&type=ws&host=cantarella.yaechan.ip-ddns.com&path=%2Fproxyip%3Dnavia.shorekeeper.ir&fp=randomized&alpn=http%2F1.1#🃏Telegram:Joker_v2ray_configs🃏
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
@@ -72,23 +71,29 @@ ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?security=tls&sni=ka
 ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.24.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🃏Telegram:Joker_v2ray_configs🃏
 ss://9f70a4c0-f727-47fb-ba7d-d604dba9669c@172.67.152.111:443?security=tls&sni=worker-little-leaf-7f8e.foxici5037.workers.Dev&type=ws&host=worker-little-leaf-7f8e.foxici5037.workers.Dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🃏Telegram:Joker_v2ray_configs🃏
 ss://Aimer@104.25.252.184:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#🃏Telegram:Joker_v2ray_configs🃏
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UHNXcGN3WDh2cFdDVkZ2M3MyV0VKbUhuZW81ZmhhOVVjb24wcm12T1NpOD06ODk4cUFpbEFOMzJWbkZLUldIaU0wbFJyVHV0MVM2RS9kQmpPUXdsRzBudz0%3D@direct.yangon.ca:8444#🃏Telegram:Joker_v2ray_configs🃏
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTc1MmVmZS04ZDcwLTQ0MTAtOWM2Zi05MmJiMTNjMjY5YjU@free.2weradf.xyz:36143#🃏Telegram:Joker_v2ray_configs🃏
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#🃏Telegram:Joker_v2ray_configs🃏
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🃏Telegram:Joker_v2ray_configs🃏
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#🃏Telegram:Joker_v2ray_configs🃏
-ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ%3D@vip-iran.interservervip.xyz:31792#🃏Telegram:Joker_v2ray_configs🃏
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#🃏Telegram:Joker_v2ray_configs🃏
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🃏Telegram:Joker_v2ray_configs🃏
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🃏Telegram:Joker_v2ray_configs🃏
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@125.227.86.45:2377#🃏Telegram:Joker_v2ray_configs🃏
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ%3D%3D@185.215.186.65:8388#🃏Telegram:Joker_v2ray_configs🃏
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190:35565#🃏Telegram:Joker_v2ray_configs🃏
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.166.103:443#🃏Telegram:Joker_v2ray_configs🃏
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMXNwWElqeFNPNUN3RHQ0N0t1V1Z4@89.185.84.185:443#🃏Telegram:Joker_v2ray_configs🃏
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakZtWg@sg.opensocks.site:8388#🃏Telegram:Joker_v2ray_configs🃏
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.26.237:8388#🃏Telegram:Joker_v2ray_configs🃏
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#🃏Telegram:Joker_v2ray_configs🃏
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#🃏Telegram:Joker_v2ray_configs🃏
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.9:443#🃏Telegram:Joker_v2ray_configs🃏
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@217.30.10.18:9024
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.18:9042#🃏Telegram:Joker_v2ray_configs🃏
-ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg@80.92.204.106:9015#🃏Telegram:Joker_v2ray_configs🃏
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.165.81.130:443
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#🃏Telegram:Joker_v2ray_configs🃏
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#🃏Telegram:Joker_v2ray_configs🃏
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#🃏Telegram:Joker_v2ray_configs🃏
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#🃏Telegram:Joker_v2ray_configs🃏
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.89:11389#🃏Telegram:Joker_v2ray_configs🃏
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.44:2375#🃏Telegram:Joker_v2ray_configs🃏
+ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#🃏Telegram:Joker_v2ray_configs🃏
+ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg%3D%3D@pl04.outline.abvpn.ru:47777#🃏Telegram:Joker_v2ray_configs🃏
 ss://YWVzLTI1Ni1nY206ZmQ4NmI0MDA1YWZk@134.122.155.213:10349#🃏Telegram:Joker_v2ray_configs🃏
-ss://YWVzLTI1Ni1nY206ZmQ4NmI0MDA1YWZk@134.122.155.213:10349/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbxpuuxbqsxeb%3Bhost%3Dhkxwv1-5.dsjsapi.com%3Btls#🃏Telegram:Joker_v2ray_configs🃏
+ss://YWVzLTI1Ni1nY206ZmQ4NmI0MDA1YWZk@134.122.155.213:10349/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dhkxwv1-5.dsjsapi.com%3Bpath%3D%2Fbxpuuxbqsxeb%3Bmux%3Dmux%3D4%3B%3B#🃏Telegram:Joker_v2ray_configs🃏
 ss://a739ad80-0aab-40b2-9b0e-8192c74287ef@104.21.16.5:443?security=tls&sni=faruzan.changli.ddns-ip.net&type=ws&host=faruzan.changli.ddns-ip.net&path=%2Fproxyip%3Dnavia.shorekeeper.ir&fp=randomized&alpn=http%2F1.1#🃏Telegram:Joker_v2ray_configs🃏
 ss://b28eb861-1748-4200-ba72-278669edc33b@172.66.139.172:80?security=none&sni=coco.mahmoodchitooz.dpdns.org&type=ws&host=coco.mahmoodchitooz.dpdns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=random#🃏Telegram:Joker_v2ray_configs🃏
 ss://bbfeab42-afd8-4c8c-f4f5-d1d36599831f@151.101.66.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=fonmelo.com&path=/olem/ws?ed%3D4096&fp=chrome&alpn=h2,http/1.1#🃏Telegram:Joker_v2ray_configs🃏
@@ -101,7 +106,6 @@ ss://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@104.21.23.210:443?security=tls&sni=OOO
 ss://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@104.21.78.243:443?security=tls&sni=19U.7282728.xyz&type=ws&host=19u.7282728.xyz&path=%2F6r23FpdcA4KNAXX&fp=chrome&alpn=http%2F1.1#🃏Telegram:Joker_v2ray_configs🃏
 ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?security=tls&sni=vless8-ekh.pages.dev&type=ws&host=vless8-ekh.pages.dev&path=/?ed%3D2560&fp=random&alpn=h3#🃏Telegram:Joker_v2ray_configs🃏
 ss://cba0b35b-8943-4c70-a864-9f78145b7897@104.16.136.210:80?security=none&type=ws&host=agolna.mahsaamini.dpdns.org&path=%2F%3Fed%3D2560#🃏Telegram:Joker_v2ray_configs🃏
-ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.220:443#🃏Telegram:Joker_v2ray_configs🃏
 ss://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.16.240.122:80?security=none&sni=ey.nazanin.dpdns.org&type=ws&host=ey.nazanin.dpdns.org&path=%2F%3Fed%3D2560&fp=random&allowInsecure=1#🃏Telegram:Joker_v2ray_configs🃏
 ss://d245c70e-053d-48c5-817b-973c9ca7bf17@rezashakor.uniquenonstop.space:22921?security=none&encryption=none&headerType=http&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
 ss://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@108.162.198.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=1#🃏Telegram:Joker_v2ray_configs🃏
@@ -122,6 +126,7 @@ ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=none&type=
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?type=grpc#🃏Telegram:Joker_v2ray_configs🃏
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?sni=pqh32v6.film32western.shop&type=grpc#🃏Telegram:Joker_v2ray_configs🃏
 ss://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🃏Telegram:Joker_v2ray_configs🃏
+ss://eb5746f7-c56f-4ed8-afb3-320da686bea4@194.182.79.7:19123?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=🃏Telegram:Joker_v2ray_configs🃏
 ss://ef3f6f19-f286-4615-ba0b-63c7f9692a30@zone.iq.f2hub.ir:53403?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
 ss://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE3Mi42NC4zMi4yMTciLCAicG9ydCI6ICIyMDg3IiwgImlkIjogImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiZ3JwYyIsICJ0eXBlIjogImd1biIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJkZDIxMTQ2eWdmZFNOQTkxOTEyODEyODBrZG0yMmthczIxMjNBYXdkc2QxMjM0YmIxNTUxMzgxNjExNDgubWVyYXRuZXQuaXIiLCAidGVzdF9uYW1lIjogIjUwIn0=
 ss://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjIyMC4xMjMuNDguMTI0IiwgInBvcnQiOiAiMzAwMDIiLCAiaWQiOiAiZDNkOGI3ODEtZjMwZC00OTAyLThlYjAtNThiMWNhOTM2YmVjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJjYzIuMTgwOC5zaXRlIiwgInBhdGgiOiAiL2hncXF2d3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiY2MyLjE4MDguc2l0ZSIsICJ0ZXN0X25hbWUiOiAiNTEifQ==
@@ -182,4 +187,4 @@ ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.246:8880?sni=sk.laoyoutiao.l
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.28:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🃏Telegram:Joker_v2ray_configs🃏
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.91:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🃏Telegram:Joker_v2ray_configs🃏
 ss://fb85dd7a-f159-49f2-98bf-8c190be49102@rezashakor.uniquenonstop.space:22921?security=none&encryption=none&headerType=http&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sat Jul  5 17:36:38 UTC 2025
+# Last updated: Sat Jul  5 18:48:07 UTC 2025
