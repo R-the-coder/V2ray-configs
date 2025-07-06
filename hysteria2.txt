@@ -1,2 +1,4 @@
-hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=%40azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sat Jul  5 23:34:05 UTC 2025
+hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://c0d1e2f3-a4b5-6789-f012-6789012345op@4n0nymou3.ir:9445?sni=www.speedtest.net#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://f6a7b8c9-d0e1-1234-f012-6789012345fg@azadnet.t.me:444?sni=www.speedtest.net#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Sun Jul  6 03:46:34 UTC 2025
