@@ -1,3 +1,4 @@
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@us.10101251.xyz:3002?insecure=0&sni=us.10101251.xyz#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://e3975a05-b89e-11ec-a50d-f23c91cfbbc9@d5d8af9a-svlb40-sxf56z-1f596.hy2.gotochinatown.net:8443?sni=d5d8af9a-svlb40-sxf56z-1f596.hy2.gotochinatown.net#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sun Jul  6 21:32:19 UTC 2025
+hysteria2://cde345-6789-9012-3456-7890abcdef34@javidnamaniran.ir:443?sni=www.speedtest.net#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://f6a7b8c9-d0e1-1234-f012-6789012345fg@azadnet.t.me:444?sni=www.speedtest.net#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Sun Jul  6 22:41:54 UTC 2025
