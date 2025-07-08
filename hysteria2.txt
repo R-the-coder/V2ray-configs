@@ -1,2 +1,4 @@
-hysteria2://nfsn666@45.207.222.138:8888?security=tls&insecure=1&sni=hk.nfsn666.gq#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Tue Jul  8 22:46:41 UTC 2025
+hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net:8443?sni=2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?security=tls&obfs=salamander&obfs-password=bleepbloop&insecure=1#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Tue Jul  8 23:26:03 UTC 2025
