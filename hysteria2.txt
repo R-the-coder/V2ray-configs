@@ -1,4 +1,4 @@
-hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?security=tls&insecure=1&mport=49999-65000&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://Godwhat.PLMoknyourmain33446@knock.zone1.center:443?insecure=0&obfs=salamander&obfs-password=The_Sefr-salamdash#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Tue Jul  8 13:40:41 UTC 2025
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://f70ff140-9c4e-44d3-8864-f336d7607d7e@jp.xn--mes91t7ofgnw.com:20252?insecure=1&sni=jp.xn--mes91t7ofgnw.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://w7x8y9z0-3456-7bcd-8abc-9012abcdef90@185.146.173.3400:443?insecure=0&sni=hysteria.de.vpnfree.org#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Tue Jul  8 14:26:07 UTC 2025
