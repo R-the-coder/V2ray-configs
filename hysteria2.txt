@@ -1,9 +1,4 @@
-hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?insecure=0&sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@us.saigonfly.com:17340?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@152.70.234.101:443?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://924abf1e-375d-4918-8b20-1047ef3dbb57@kor.pddwdf.store:10119?insecure=1&sni=kor.pddwdf.store#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://YidTdI17j06K1PFBUWdzWDVZXc@52.14.165.55:33562?insecure=1#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://dongtaiwang.com@45.129.2.108:30033?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Wed Jul  9 15:27:51 UTC 2025
+hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp2.eyucdn.xyz:2056?insecure=1&sni=zp2.eyujichang.xyz#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?security=tls&obfs=salamander&obfs-password=bleepbloop&insecure=1#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=0&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Wed Jul  9 15:47:36 UTC 2025
