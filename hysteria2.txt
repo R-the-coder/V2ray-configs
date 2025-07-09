@@ -1,9 +1,8 @@
-hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@89.185.27.133:443?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@br.saigonfly.com:17703?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@de.saigonfly.com:17911?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@tr.saigonfly.com:17192?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17132?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://c2b58ae0-d21c-11ef-b414-f23c91cfbbc9@638bb563-sw3ts0-swwcfg-1eijl.hy2.gotochinatown.net:8443?sni=638bb563-sw3ts0-swwcfg-1eijl.hy2.gotochinatown.net#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:501?insecure=1&obfs=salamander&obfs-password=Djxsjduwue#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Wed Jul  9 16:32:12 UTC 2025
+hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=%40azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?security=tls&obfs=salamander&obfs-password=bipbip&insecure=1#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://YidTdI17j06K1PFBUWdzWDVZXc@52.14.165.55:33562?insecure=1#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://a68e381f-84f6-452e-a644-d5296a1e6c54@140.245.35.137:44111?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264?insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Wed Jul  9 17:24:06 UTC 2025
