@@ -1,24 +1,20 @@
-trojan://100b5163-fbb8-425d-9621-44d119555aa4@104.21.75.120:2053?path=%2FtrWCuRIwSn9S6fDZGE%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&security=tls&alpn=http%2F1.1&host=mahsa2.cfform.site&fp=randomized&type=ws&sni=MaHSA2.cffoRm.SitE#🃏Telegram:Joker_v2ray_configs🃏
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.34.143.101:6668?allowInsecure=1&sni=baidu.com#🃏Telegram:Joker_v2ray_configs🃏
-trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
-trojan://6AC378EE-C9AE-9D3C-3DD9-8C034898BE44@117.186.219.179:14426?security=tls&sni=mpvideo.qpic.cn&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
-trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?allowInsecure=1#🃏Telegram:Joker_v2ray_configs🃏
-trojan://Aimer@103.116.7.133:2083?sni=epml.ambercc.filegear-sg.me#🃏Telegram:Joker_v2ray_configs🃏
-trojan://Aimer@172.64.35.127:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
-trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🃏Telegram:Joker_v2ray_configs🃏
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:4447?allowInsecure=1&sni=www.baidu.com#🃏Telegram:Joker_v2ray_configs🃏
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:7571?allowInsecure=1&sni=www.baidu.com#🃏Telegram:Joker_v2ray_configs🃏
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:16158?allowInsecure=1&sni=www.baidu.com#🃏Telegram:Joker_v2ray_configs🃏
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:24903?allowInsecure=1&sni=www.baidu.com#🃏Telegram:Joker_v2ray_configs🃏
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443?sni=SsXCDfR5.986986.shoP#🃏Telegram:Joker_v2ray_configs🃏
+trojan://Aimer@176.53.144.206:8443?allowInsecure=0&sni=epml.ambercc.filegear-sg.me#🃏Telegram:Joker_v2ray_configs🃏
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?allowInsecure=1&sni=vle.amclubdns.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#🃏Telegram:Joker_v2ray_configs🃏
+trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=🃏Telegram:Joker_v2ray_configs🃏&sni=uk2.safecdn.site#🃏Telegram:Joker_v2ray_configs🃏
+trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?allowInsecure=1&sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#🃏Telegram:Joker_v2ray_configs🃏
+trojan://fa7e175b-fc36-4840-bb92-de40e0eccf35@awshk10-tg-data.amazonwebservicess.com:443?allowInsecure=1&sni=data.amazonwebservicess.com
+trojan://telegram-id-directvpn@13.134.5.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
+trojan://telegram-id-directvpn@15.188.162.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
+trojan://telegram-id-directvpn@15.237.4.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
 trojan://telegram-id-privatevpns@13.36.253.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
+trojan://telegram-id-privatevpns@13.36.29.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
 trojan://telegram-id-privatevpns@13.37.65.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
-trojan://telegram-id-privatevpns@18.199.233.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
+trojan://telegram-id-privatevpns@13.39.183.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
 trojan://telegram-id-privatevpns@3.67.33.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
 trojan://telegram-id-privatevpns@3.69.141.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
-trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
+trojan://telegram-id-privatevpns@3.70.33.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
 trojan://telegram-id-privatevpns@35.180.216.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
-trojan://telegram-id-privatevpns@35.181.247.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
 trojan://telegram-id-privatevpns@35.181.25.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
-trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#🃏Telegram:Joker_v2ray_configs🃏
 trojan://telegram-id-privatevpns@52.47.84.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Fri Jul 11 20:28:08 UTC 2025
+# Last updated: Fri Jul 11 20:46:53 UTC 2025
