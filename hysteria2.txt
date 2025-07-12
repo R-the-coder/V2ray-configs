@@ -1,9 +1,8 @@
-hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@uk.saigonfly.com:17383?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@uk.saigonfly.com:443?#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:40408?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@us.10101251.xyz:3002?insecure=0&sni=us.10101251.xyz#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp1.eyucdn.xyz:2056?insecure=1&sni=zp1.eyujichang.xyz#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@br.saigonfly.com:17598?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@204.10.194.86:443?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-password=bleepbloop#🃏Telegram:Joker_v2ray_configs🃏
 hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1&sni=apple.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://dongtaiwang.com@46.17.41.189:50717?security=tls&insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sat Jul 12 11:20:52 UTC 2025
+hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:501?insecure=1&obfs=salamander&obfs-password=Djxsjduwue#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Sat Jul 12 11:40:41 UTC 2025
