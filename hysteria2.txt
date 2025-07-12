@@ -1,12 +1,10 @@
-hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@132.226.117.48:30000?security=tls&insecure=1&sni=www.apple.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://2ec58858-976b-11ea-82ef-f23c9164ca5d@6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net:8443?sni=6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@us.saigonfly.com:17109?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.255:443?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://c2b58ae0-d21c-11ef-b414-f23c91cfbbc9@638bb563-sw3ts0-swwcfg-1eijl.hy2.gotochinatown.net:8443?sni=638bb563-sw3ts0-swwcfg-1eijl.hy2.gotochinatown.net#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?security=tls&insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://hfWoFliBzz7DzJ4AhSrCpNsiw@54.212.32.103:21779?insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@au.saigonfly.com:17169?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17132?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:40408?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://7fae5f8e-7963-4cbe-ae1a-31cd952573a2@139.185.36.59:55000?security=tls&insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://f6402f92-93e6-464f-8f36-b29a17301b3f@ukhub.xg-hub.icu:25785/?insecure=1&sni=ukhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://f70ff140-9c4e-44d3-8864-f336d7607d7e@jp.xn--mes91t7ofgnw.com:20252?insecure=1&sni=jp.xn--mes91t7ofgnw.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://u5v6w7x8-9012-3bcd-4abc-5678abcdef34@185.146.173.3250:443?insecure=0&sni=hysteria.de.vpnfree.org#🃏Telegram:Joker_v2ray_configs🃏
 hysteria2://user10.khobbebinSEFRinjast128161@lake.zone1.center:443?insecure=0&obfs=salamander&obfs-password=The_Sefr-chibegam#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://user15.SEFRlolpip192761@shade.zone1.center:443?insecure=0&obfs=salamander&obfs-password=mkv_SEfr-salamdash#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sat Jul 12 22:45:35 UTC 2025
+hysteria2://yoP8tOtEhMTSBUPY9LwnHABvFE@18.136.211.127:14933?security=tls&insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Sat Jul 12 23:25:47 UTC 2025
