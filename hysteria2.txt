@@ -1,9 +1,8 @@
-hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net:8443?sni=2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://467f2940-77cd-11ee-b5ed-f23c9164ca5d@898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net:8443?sni=898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@de.saigonfly.com:17027?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@tr.saigonfly.com:17882?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://e3f67f43-9097-4e56-96e2-681910b92150@172.245.106.236:35091?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=fWQ4LCfAYiKaEVRe#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://o9p0q1r2-9012-3bcd-4abc-5678abcdef12@185.146.173.2900:443?insecure=0&sni=hysteria.de.vpnfree.org#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264?insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sun Jul 13 04:40:20 UTC 2025
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@au.saigonfly.com:17275?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@br.saigonfly.com:17598?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17297?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@108.181.23.241:443?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://yoP8tOtEhMTSBUPY9LwnHABvFE@18.136.211.127:14933?security=tls&insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Sun Jul 13 05:26:40 UTC 2025
