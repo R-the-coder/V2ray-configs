@@ -1,5 +1,6 @@
-hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=%40azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@us.10101251.xyz:3002?insecure=0&sni=us.10101251.xyz#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy22.liangxin1.xyz:30000?insecure=1&sni=www.apple.com#🃏Telegram:Joker_v2ray_configs🃏
 hysteria2://4c0c889785026935@77.110.115.25:5053?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=4c0c889785026935#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://Godwhat.PLMoknyourmain33446@knock.zone1.center:443?insecure=0&obfs=salamander&obfs-password=The_Sefr-salamdash#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Sun Jul 13 22:24:13 UTC 2025
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@uk.saigonfly.com:17571?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.255:443?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#🃏Telegram:Joker_v2ray_configs🃏
+# Last updated: Sun Jul 13 22:45:43 UTC 2025
