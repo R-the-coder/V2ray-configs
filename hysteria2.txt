@@ -1,9 +1,10 @@
-hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=%40azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy11.liangxin1.xyz:30000?security=tls&insecure=1&sni=www.teslaenergy.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://dongtaiwang.com@46.17.41.189:50717?security=tls&insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://%40VPNHubMaRKeT@202.78.166.190:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=@VPNHubMaRKeT#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://27e473f8-d610-4b04-bdf7-d0c39b47c897@23.80.81.213:45000?insecure=1&sni=www.apple.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy22.liangxin1.xyz:30000?insecure=1&sni=www.apple.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@us.saigonfly.com:17627?insecure=0#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?insecure=1&sni=www.bing.com#🃏Telegram:Joker_v2ray_configs🃏
+hysteria2://ff35d96a-5065-4ed2-8a9e-aaa279c1efb5@45.135.135.229:31008?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#🃏Telegram:Joker_v2ray_configs🃏
 hysteria2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264?insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
-hysteria2://yoP8tOtEhMTSBUPY9LwnHABvFE@18.136.211.127:14933?insecure=1&sni=bing.com#🃏Telegram:Joker_v2ray_configs🃏
-# Last updated: Tue Jul 15 20:29:20 UTC 2025
+# Last updated: Tue Jul 15 20:48:46 UTC 2025
