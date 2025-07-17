@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/Joker-funland/V2ray-configs/main/config.txt
 
 ***Don't forget to give the repo a ⭐***
 
-click [here](https://t.me/Joker_v2ray_configs) to join to my telegram channel
+click [here](https://t.me/Joker_v2ray_configs) to join to my telegram channel, there I will put the news (if there are any, like updating the code and stuff like that), you will get normal config addresses (here everything is in base64)
 
 ***⭕Important⭕: The amount of configs that you get are random and there won't be any repeated config in the list***
 
