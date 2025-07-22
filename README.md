@@ -24,7 +24,7 @@ click [here](https://t.me/Joker_v2ray_configs) to join to my telegram channel
 
 ***⭕Important⭕: The amount of configs that you get are random and there won't be any repeated config in the list***
 
-by the way, the lists are in base64 here so if you want normal ones then you can get them from the telegram channel
+by the way, the lists are in base64 here so if you want normal ones you can get them from the telegram channel
 
 # This repository finds the following configurations:
 
