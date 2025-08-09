@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/Joker-funland/V2ray-configs/main/warp.txt
 
 **📢 Don't forget to join the telegram channel**: [Joker_v2ray_configs](https://t.me/Joker_v2ray_configs)
 
-**📚Sources that configs are captured from**: `26`
+**📚Sources that configs are captured from**: `27`
 
 **🕖The day I created this repository**: `June 22 of 2025`
 
