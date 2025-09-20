@@ -1,130 +1,138 @@
-# Best V2Ray Clients — Android / iOS / Windows
+# Best V2Ray & Proxy Clients — 📱 Android / iOS / 💻 Windows
 
-_Quick, simple guide for getting started with V2Ray clients on mobile and PC._  
-**Use only in ways that are legal where you are.** See Safety note at the end.
-
----
-
-## Quick picks (links)
-- **Android**
-  - [Clash for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) — advanced, rules & routing.  
-  - [V2RayNG](https://github.com/2dust/v2rayNG) — simple, lightweight.
-- **iOS**
-  - [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) — paid, full-featured.  
-  - [Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073) — V2Ray-native option.
-- **Windows**
-  - [Clash for Windows](https://github.com/clashdownload/Clash_for_Windows) — advanced rule-based client.  
-  - [v2rayN](https://github.com/2dust/v2rayN) — simple, popular Windows GUI.
+_A quick and simple guide to get you up and running with the best proxy clients on your phone and PC._ 😉
 
 ---
 
-## Before you begin (what you need)
-A V2Ray server subscription or single-server config (from your trusted provider) that includes:
-- server address (IP or hostname)  
-- port  
-- protocol (VMess / VLESS / Trojan)  
-- **UUID / user id** (for vmess/vless) or credentials the provider gives  
-- network/transport (tcp / ws / h2 / quic) and path (if websocket)  
-- whether TLS is required
+## Quick Picks (links)
 
-> Most clients accept either a **subscription URL** (often starts with `http(s)://` or `vmess://`/`vless://`) or a **QR code**. If you have a subscription URL, import it; that’s the easiest.
-
----
-
-## Android — Simple: V2RayNG
-[Get V2RayNG](https://github.com/2dust/v2rayNG).  
-
-**Super-simple steps**
-1. Install the APK from the GitHub releases link.  
-2. Open V2RayNG → tap `+` (or `Import`) → **Import subscription URL** or **scan QR**.  
-3. Select a server from the list → tap **Connect**.  
-4. Verify: open a browser → go to `https://whatismyipaddress.com` or a geolocation site to confirm your IP changed.
-
-**If you prefer manual add**
-- Tap `+` → choose VMess (or VLESS) → paste server address, port, UUID, transport (ws/tcp), path, and TLS on/off → Save → Connect.
-
-**Tip:** If something fails, check the app log (inside the client) to confirm the UUID/protocol and transport match the server settings. :contentReference[oaicite:3]{index=3}
+-   **Android** 🤖
+    -   [NekoBox for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid) — Modern, powerful, supports tons of protocols.
+    -   [Clash for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) — For power users who love rules & routing. ⚙️
+    -   [V2RayNG](https://github.com/2dust/v2rayNG) — Simple, lightweight, and gets the job done. 👍
+-   **iOS** 🍎
+    -   [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) — The paid king, full-featured and super reliable. 🚀
+    -   [Kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073) — A great V2Ray-native option.
+-   **Windows** 💻
+    -   [Clash for Windows](https://github.com/clashdownload/Clash_for_Windows) — The best choice for advanced, rule-based routing.
+    -   [v2rayN](https://github.com/2dust/v2rayN) — Simple and popular GUI for Windows.
 
 ---
 
-## Android — Advanced: Clash for Android
-[Get Clash for Android](https://github.com/MetaCubeX/ClashMetaForAndroid).  
+## Before You Begin (What you'll need)
 
-**Simple usage**
-1. Install from the repo releases / Play store build.  
-2. Open app → `Profiles` → **Import** subscription URL (often called “config” or `.yaml` link) or local YAML file.  
-3. Switch the profile on and choose a mode (Global / Rule / Direct).  
-4. Use the built-in rules to route traffic per domain or app.
+To get started, you'll need a V2Ray server configuration from your provider. The easiest way to do this is with a **subscription URL** (that long link they give you).
 
-**Why use Clash:** advanced routing (per-app/domain), supports many protocols and complex routing rules. Good if you want fine control. :contentReference[oaicite:4]{index=4}
+Most clients will let you just paste that URL in, and you're good to go! You can also usually add servers by scanning a **QR code**. ✅
 
 ---
 
-## iOS — Paid & reliable: Shadowrocket
-[Get Shadowrocket (App Store)](https://apps.apple.com/us/app/shadowrocket/id932747118).  
+## Android — Modern & Powerful: NekoBox 🐈
 
-**Simple usage**
-1. Buy/download from App Store.  
-2. Open → `Configuration` → `Add` → choose VMess/VLESS/Trojan etc. OR import subscription URL (often provided by your server provider) or scan QR.  
-3. Enable the profile (toggle the switch).  
-4. Verify with a web check (whatismyip).
+[Get NekoBox for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 
-**Notes:** Shadowrocket is paid but widely used and supports VMess/VLESS and many transports. :contentReference[oaicite:5]{index=5}
+**Why NekoBox?** It's built on sing-box, meaning it supports a bunch of newer, faster protocols beyond just V2Ray. If your provider offers things like Hysteria2 or TUIC, this is the client for you!
 
----
-
-## iOS — Free-ish alternative: Kitsunebi (and others)
-[Kitsunebi on App Store](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073).  
-
-**Steps** are similar: install → import subscription or scan QR → enable. Kitsunebi is V2Ray-native and supports multiple transports. :contentReference[oaicite:6]{index=6}
+**Super-simple steps:**
+1.  Install the APK from the GitHub releases link.
+2.  Open the app → go to the `Profiles` tab → tap the `+` button.
+3.  Choose `Add profile from URL` and paste in your subscription link.
+4.  Tap on your new profile group to fetch all the servers.
+5.  Head over to the `Dashboard` tab, pick a server you like, and hit the big connect button at the bottom! ▶️
 
 ---
 
-## Windows — Simple: v2rayN
-[v2rayN (GitHub)](https://github.com/2dust/v2rayN).  
+## Android — Simple & Solid: V2RayNG 👍
 
-**Simple steps**
-1. Download the release ZIP → extract → run `v2rayN.exe`.  
-2. `Servers` → `Import` → paste subscription URL or add server manually (Address, Port, UUID, Transport, Path, TLS).  
-3. Click `Start` → set system proxy mode (if asked) or configure browser/system to use the proxy.  
-4. Verify with an IP/geolocation check.
+[Get V2RayNG](https://github.com/2dust/v2rayNG)
 
-**Note:** v2rayN is a Windows GUI built specifically for V2Ray core. :contentReference[oaicite:7]{index=7}
+**Super-simple steps:**
+1.  Install the APK from the GitHub releases page.
+2.  Pop open the app → tap the `+` button → choose **Import config from URL**.
+3.  Paste your subscription link and let it load the servers.
+4.  Select a server from the list → tap the big 'V' icon on the bottom right to connect.
+5.  Check your new IP on a site like `whatismyipaddress.com` to make sure it's working!
 
----
-
-## Windows — Advanced: Clash for Windows
-[Clash for Windows (GitHub)](https://github.com/clashdownload/Clash_for_Windows).  
-
-**Simple usage**
-1. Install the app from releases.  
-2. `Profiles` → import subscription YAML or file.  
-3. Toggle **Start** and pick a mode (Global/Rule/System Proxy).  
-4. Use the UI to choose nodes and routing rules.
-
-**Why use Clash:** advanced rule engine, supports multiple protocols, profile management, and GUI for switching policies. Great for power users. :contentReference[oaicite:8]{index=8}
+**Pro-tip:** If something fails, check the app log (in the side menu). It'll usually tell you what's wrong, like a typo in your UUID.
 
 ---
 
-## Troubleshooting — quick checklist
-- Wrong credentials? Re-check UUID / port / protocol.  
-- Transport mismatch? If server uses WebSocket with a path, make sure the path is set.  
-- TLS issues? Toggle TLS on/off depending on server.  
-- Logs: always open the client logs — they show connection errors.  
-- System proxy vs app VPN: some clients provide an OS-level VPN mode (iOS, Android), others use system proxy — pick according to your needs.
+## Android — Advanced Rules: Clash for Android ⚙️
+
+[Get Clash for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)
+
+**Simple usage:**
+1.  Install the app.
+2.  Open it → go to `Profiles` → tap the `+` and import your subscription URL.
+3.  Switch the profile on and choose a mode (Global, Rule, or Direct).
+
+**Why use Clash:** Clash is for the power users out there. It lets you create super detailed rules, like routing specific apps or websites through the proxy while leaving others direct. Total control!
 
 ---
 
-## Safety & Legal
-- These tools can be used to increase privacy, but laws and acceptable use vary by country and network. **Do not use to perform illegal activity**. Use only services and servers you legally own or are allowed to use.
+## iOS — The Gold Standard (Paid): Shadowrocket 🚀
+
+[Get Shadowrocket (App Store)](https://apps.apple.com/us/app/shadowrocket/id932747118)
+
+**Simple usage:**
+1.  Buy and download it from the App Store (it's worth it!).
+2.  Open the app → tap `Add Server` and choose `Subscribe`, then paste your URL or scan a QR code.
+3.  Flip the switch at the top to connect. Done! 🥳
+
+**Notes:** Shadowrocket costs a few bucks but it's the most popular and reliable client on iOS for a reason. It supports pretty much everything.
 
 ---
 
-## Links / sources used for this README
-- V2RayNG — https://github.com/2dust/v2rayNG  
-- Clash for Android — https://github.com/MetaCubeX/ClashMetaForAndroid  
-- Shadowrocket (App Store) — https://apps.apple.com/us/app/shadowrocket/id932747118  
-- Kitsunebi (App Store) — https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073  
-- v2rayN — https://github.com/2dust/v2rayN  
-- Clash for Windows — https://github.com/clashdownload/Clash_for_Windows
+## iOS — Great Alternative: Kitsunebi 🦊
 
+[Kitsunebi on App Store](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)
+
+**Steps** are basically the same: install the app → import your subscription link or scan a QR code → connect. It's a solid, V2Ray-native client that gets the job done.
+
+---
+
+## Windows — Simple & Easy: v2rayN ✅
+
+[v2rayN (GitHub)](https://github.com/2dust/v2rayN)
+
+**Simple steps:**
+1.  Download the ZIP file → extract it somewhere → run `v2rayN.exe`.
+2.  In the app window, go to `Servers` → `Import bulk URL from clipboard`.
+3.  Right-click the v2rayN icon in your system tray (bottom right of the screen) → `System Proxy` → set it to `Set system proxy`.
+4.  Right-click a server from the list in the main window and set it as active.
+5.  You should be connected! Check your IP in a browser to confirm.
+
+---
+
+## Windows — The Power User's Choice: Clash for Windows 🎮
+
+[Clash for Windows (GitHub)](https://github.com/clashdownload/Clash_for_Windows)
+
+**Simple usage:**
+1.  Install the app.
+2.  Go to the `Profiles` section and paste your subscription URL into the box and hit `Download`.
+3.  Go back to the `General` page and turn on the `System Proxy` toggle.
+4.  Head to the `Proxies` page to pick your server and routing mode (Global/Rule).
+
+**Why use Clash:** Just like the Android version, it has an amazing rule engine for fine-tuning your connection. Perfect for gamers and tinkerers.
+
+---
+
+## Stuck? Quick Troubleshooting Checklist 🤔
+
+-   **❌ Wrong credentials?** Double-check your UUID, port, and protocol match what your provider gave you.
+-   **🌐 Transport mismatch?** If the server uses WebSocket (`ws`), make sure your client is also set to `ws`.
+-   **🔒 TLS issues?** Try toggling TLS on/off. It has to match the server's setting.
+-   **📜 Check the logs!** The client's log is your best friend. It will almost always tell you why a connection is failing.
+
+---
+
+## Links / Sources
+
+-   NekoBox for Android — `https://github.com/MatsuriDayo/NekoBoxForAndroid`
+-   V2RayNG — `https://github.com/2dust/v2rayNG`
+-   Clash for Android — `https://github.com/MetaCubeX/ClashMetaForAndroid`
+-   Shadowrocket (App Store) — `https://apps.apple.com/us/app/shadowrocket/id932747118`
+-   Kitsunebi (App Store) — `https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073`
+-   v2rayN — `https://github.com/2dust/v2rayN`
+-   Clash for Windows — `https://github.com/clashdownload/Clash_for_Windows`
