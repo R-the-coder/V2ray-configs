@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/Joker_v2ray_configs" target="_blank">
-    <img src="https://github.com/R-the-coder/Galactic-Annihilator/blob/main/Screenshot/J.png" alt="Description" width="250"/>
+    <img src="https://github.com/R-the-coder/Galactic-Annihilator/blob/main/Screenshot/R.png" alt="Description" width="250"/>
   </a>
 </p>
 
