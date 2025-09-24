@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://t.me/Joker_v2ray_configs" target="_blank">
+  <a href="https://t.me/R_v2ray_configs" target="_blank">
     <img src="https://github.com/R-the-coder/Galactic-Annihilator/blob/main/Screenshot/R.png" alt="Description" width="250"/>
   </a>
 </p>
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/config.txt
 
 ***Don't forget to give the repo a ⭐***
 
-click [here](https://t.me/Joker_v2ray_configs) to join to my telegram channel
+click [here](https://t.me/R_v2ray_configs) to join to my telegram channel
 
 ***⭕Important⭕: The amount of configs that you get are random and there won't be any repeated config in the list***
 
@@ -85,10 +85,10 @@ https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/warp.txt
 **🔵Information**
 --------------------
 
-**📢 Don't forget to join the telegram channel**: [Joker_v2ray_configs](https://t.me/Joker_v2ray_configs)
+**📢 Don't forget to join the telegram channel**: [Joker_v2ray_configs](https://t.me/R_v2ray_configs)
 
 **📚Sources that configs are captured from**: `27`
 
 **🕖The day I created this repository**: `June 22 of 2025`
 
-**👩🏻‍💻Programmed by**: [Joker](https://github.com/R-the-coder)
+**👩🏻‍💻Programmed by**: [R](https://github.com/R-the-coder)
