@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/warp.txt
 **🔵Information**
 --------------------
 
-**📢 Don't forget to join the telegram channel**: [Joker_v2ray_configs](https://t.me/R_v2ray_configs)
+**📢 Don't forget to join the telegram channel**: [R_v2ray_configs](https://t.me/R_v2ray_configs)
 
 **📚Sources that configs are captured from**: `27`
 
