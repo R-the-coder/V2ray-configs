@@ -12,7 +12,7 @@ This repo collects a random amount of v2ray configs by itself every 30 minutes
 
 🚫 NONE OF THE CONFIGS ARE MINE 🚫
 
-🃏 Just put this subscription link in a v2ray client and enjoy 🃏
+🍫 Just put this subscription link in a v2ray client and enjoy 🍫
 
 ```javascript
 https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/config.txt
