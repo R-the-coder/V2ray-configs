@@ -1,3 +1,5 @@
+## ⚠ Important ⚠: I changed my github account name so you guys need to grab the new subscription links from here
+
 <p align="center">
   <a href="https://t.me/R_v2ray_configs" target="_blank">
     <img src="https://github.com/R-the-coder/Galactic-Annihilator/blob/main/Screenshot/R.png" alt="Description" width="250"/>
