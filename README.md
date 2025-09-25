@@ -1,4 +1,4 @@
-## ⚠ Important ⚠: I changed my github account username so you guys need to grab the new subscription links from this repository
+## ⚠ Important ⚠: I changed my github account username (formerly known as Joker-funland) so you guys need to grab the new subscription links from this repository
 
 <p align="center">
   <a href="https://t.me/R_v2ray_configs" target="_blank">
