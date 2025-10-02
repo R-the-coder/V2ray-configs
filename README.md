@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/config.txt
 
 click [here](https://t.me/R_v2ray_configs) to join to my telegram channel
 
-***⭕Important⭕: The amount of configs that you get are random and there won't be any repeated config in the list***
+***⭕Important⭕: The amount of configs that you get is random and there won't be any repeated config in the list***
 
 by the way, the lists are in base64 here so if you want normal ones you can get them from the telegram channel
 
