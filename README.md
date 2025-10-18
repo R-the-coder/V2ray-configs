@@ -87,8 +87,8 @@ https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/warp.txt
 
 **📢 Don't forget to join the telegram channel**: [R_v2ray_configs](https://t.me/R_v2ray_configs)
 
-**📚Sources that configs are captured from**: `27`
+**📚 Sources that configs are captured from**: `27`
 
-**🕖The day I created this repository**: `June 22 of 2025`
+**🕖 The day I created this repository**: `June 22 of 2025`
 
-**👩🏻‍💻Programmed by**: [R](https://github.com/R-the-coder)
+**👩🏻‍💻 Programmed by**: [R](https://github.com/R-the-coder)
