@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/v2ray_configs_v2c" target="_blank">
-    <img src="https://github.com/R-the-coder/Galactic-Annihilator/blob/main/Screenshot/R.png" alt="Description" width="250"/>
+    <img src="https://github.com/Sage-77/Galactic-Annihilator/blob/main/Screenshot/S.png" alt="Description" width="250"/>
   </a>
 </p>
 
@@ -15,7 +15,7 @@ This repo collects a random amount of v2ray configs by itself every 30 minutes
 🍫 Just put this subscription link in a v2ray client and enjoy 🍫
 
 ```javascript
-https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/config.txt
+https://raw.githubusercontent.com/Sage-77/V2ray-configs/main/config.txt
 ```
 
 ***Don't forget to give the repo a ⭐***
@@ -43,43 +43,43 @@ by the way, the lists are in base64 here so if you want normal ones you can get 
 VLess:
 
 ```javascript
-https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/vless.txt
+https://raw.githubusercontent.com/Sage-77/V2ray-configs/main/vless.txt
 ```
 
 VMess:
 
 ```javascript
-https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/vmess.txt
+https://raw.githubusercontent.com/Sage-77/V2ray-configs/main/vmess.txt
 ```
 
 Trojan:
 
 ```javascript
-https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/trojan.txt
+https://raw.githubusercontent.com/Sage-77/V2ray-configs/main/trojan.txt
 ```
 
 Shadowsocks:
 
 ```javascript
-https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/ss.txt
+https://raw.githubusercontent.com/Sage-77/V2ray-configs/main/ss.txt
 ```
 
 Shadowsocksr:
 
 ```javascript
-https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/ssr.txt
+https://raw.githubusercontent.com/Sage-77/V2ray-configs/main/ssr.txt
 ```
 
 Hysteria2:
 
 ```javascript
-https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/hysteria2.txt
+https://raw.githubusercontent.com/Sage-77/V2ray-configs/main/hysteria2.txt
 ```
 
 Warp:
 
 ```javascript
-https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/warp.txt
+https://raw.githubusercontent.com/Sage-77/V2ray-configs/main/warp.txt
 ```
 
 **🔵Information**
@@ -91,4 +91,4 @@ https://raw.githubusercontent.com/R-the-coder/V2ray-configs/main/warp.txt
 
 **🕖 The day I created this repository**: `June 22 of 2025`
 
-**👩🏻‍💻 Programmed by**: [R](https://github.com/R-the-coder)
+**👩🏻‍💻 Programmed by**: [Sage](https://github.com/Sage-77)
