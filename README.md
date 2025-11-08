@@ -1,4 +1,4 @@
-# ⚠ I changed my username so grab the new subscription links
+# ⚠ I changed my username so grab the new subscription links ⚠
 
 <p align="center">
   <a href="https://t.me/v2ray_configs_v2c" target="_blank">
