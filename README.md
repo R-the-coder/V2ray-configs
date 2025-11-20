@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/Sage-77/V2ray-configs/main/warp.txt
 
 **📢 Don't forget to join the telegram channel**: [V2ray_configs](https://t.me/v2ray_configs_v2c)
 
-**📚 Sources that configs are captured from**: `27`
+**📚 Sources that configs are captured from**: `29`
 
 **🕖 The day I created this repository**: `June 22 of 2025`
 
